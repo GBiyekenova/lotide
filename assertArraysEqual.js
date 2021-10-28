@@ -21,4 +21,4 @@ const assertArraysEqual = function(arr1, arr2) {
   }
   console.log(`Assertion passed: ${arr1} === ${arr2}`);
 };
-assertArraysEqual([1, 1, 1], [1, 1]);
+assertArraysEqual([1, 1], [1, 1]);
